@@ -15,7 +15,8 @@
 - `Homework_1/Contracts/ISafeLogger.cs` – интерфейс за дефиниране на поведението на логера  
 - `Homework_1/VulnerableLogger.cs` – уязвима версия за демонстрация на рисковете  
 - `Homework_1/Program.cs` – входна точка (пример за използване в конзолното приложение)  
-- `Homework_1.Tests/SafeLoggerTests.cs` – unit тестове, които проверяват поведението и сигурността на логера  
+- `Homework_1.Tests/SafeLoggerTests.cs` – unit тестове, които проверяват поведението и сигурността на логера
+- `SafeLogger_RiskAnalysis.md` - анализ на основните типове рискове, произтичащи от уязвимия код (format injection, log forging, DoS, curly-brace interpretation) 
 - `README.md` – кратка документация с обяснения и препоръки  
 
 ---
