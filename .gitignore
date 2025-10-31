@@ -1,0 +1,26 @@
+# Ignore build and user-specific files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore log directories
+Logs/
+*.log
+
+# Ignore temporary test artifacts
+TestResults/
+*.tmp
+*.temp
+
+# Ignore system and IDE metadata
+.vs/
+.idea/
+*.DS_Store
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
